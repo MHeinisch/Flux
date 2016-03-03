@@ -3,17 +3,56 @@ p {
 	color:#0000FF;
 }
 body {
-	
+	background-image: url("https://www.psc.edu/science/2007/inprogress/images/BrownBFieldLines.jpg");
+	background-size: 85% 165%;
+	background-position: 50% 0%;
+	width: auto;
+	height: auto;
+	background-repeat: no-repeat no-repeat;
+	background-color: silver;
 }
-#awesomeText {front-family: Times New Roman, Geaorgia, Serif;}
+#awesomeText {front-family: Times New Roman, Georgia, Serif;}
 .soft {color:#A8A8A8;}
 .center {text-align: center;}
 .container {margin: 0 auto;}
+.black {color:black;}
+#large{
+	color:black;
+	font-size:36pt;
+	font-weight:bold;
+}
 #special{
-	color:grey;
-	font-family:ariel;
-	size:15pt;
+	color:black;
+	font-size:24pt;
+	font-weight:bold;
+	font-style:italic;
 	}
+#standardBold{
+	color:black;
+	font-size:16pt;
+	font-weight:bold;
+}
+#standardBold20{
+	color:black;
+	font-size:20pt;
+	font-weight:bold;
+	}
+#standardBoldWhite{
+	color:white;
+	font-size:20pt;
+	font-weight:bold;
+}
+#standard{
+	color:black;
+	font-size:16pt;
+}
+#standardWhite{
+	color:white;
+	font-size:16pt;
+}
 	.bluetext{
 	color:blue;
 	}
+table{
+	background-color:white;
+}
