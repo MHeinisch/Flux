@@ -4,7 +4,7 @@ p {
 }
 body {
 	background-image: url("https://www.psc.edu/science/2007/inprogress/images/BrownBFieldLines.jpg");
-	background-size: 85% 165%;
+	background-size: 100% 150%;
 	background-position: 50% 0%;
 	width: auto;
 	height: auto;
@@ -54,5 +54,11 @@ body {
 	color:blue;
 	}
 table{
-	background-color:white;
+	background-color:white;	
+}
+table, th, td{
+	border:1px solid black;
+	font-weight:bold;
+	color:#359696;
+	padding:5px;
 }
